@@ -74,7 +74,7 @@ elif work == 1:
 elif work == 2:
     check_and_open()
 elif work == 3:
-    print("Copyright 2023. XiBBaL all rights reserved.\nIf you want to know more about this program, visit \'https://github.com/XiBBaL/newtoki_link_tracker\'\nThanks!")
+    print("Copyright 2023. XiBBaL all rights reserved.\nVersion : 1.0.0\nIf you want to know more about this program, visit \'https://github.com/XiBBaL/newtoki_link_tracker\'\nThanks!")
     sleep(10)
 else:
     print("Type Valid Number\n")
