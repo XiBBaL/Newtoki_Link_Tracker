@@ -1,11 +1,12 @@
 # newtoki_link_tracker
 **This program keeps track of url addresses of newtoki.com that keep changing and opens it automatically.**
 
+<br/>
 
 **[Download Link]**
-[Download Newtoki Link Tracker](https://github.com/XiBBaL/newtoki_link_tracker/releases/tag/on_publish)
+<br/>[Download Newtoki Link Tracker](https://github.com/XiBBaL/newtoki_link_tracker/releases/tag/on_publish)
 
-
+<br/>
 
 **[How to Use]**
 1. Launch "Newtoki_link_tracker.exe" in the zip file.
@@ -20,7 +21,7 @@
 
 4. If you type 0 or 2, program automatically tracks newtoki.com link and opens it with Chrome secret mode (incognito mode) tab.
 
-
+<br/>
 
 **[Tips]**
 In korea, sometimes in the case site is blocked by government censorship, program doesnt work. In this case, **launch GoodbyeDPI alone first and launch chrome tab later.**
