@@ -1,5 +1,5 @@
 # newtoki_link_tracker
-**This program keeps track of url addresses of newtoki.com that keep changing and opens it automatically.**
+**This program keeps track of url addresses (only for newtoki.com) that keep changing and opens it automatically.**
 
 <br/>
 
@@ -24,4 +24,4 @@
 <br/>
 
 **[Tips]**
-In korea, sometimes in the case site is blocked by government censorship, program doesnt work. In this case, **launch GoodbyeDPI alone first and launch chrome tab later.**
+<br/>In korea, sometimes in the case site is blocked by government censorship, program doesnt work. In this case, **launch GoodbyeDPI alone first and launch chrome tab later.**
